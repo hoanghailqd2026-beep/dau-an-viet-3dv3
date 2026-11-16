@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" width="280" height="180" fill="none">
+  <!-- SAIGON HERITAGE - BỐ CỤC DỌC (VERTICAL POSTER / SPLASH BRANDMARK) -->
+  <!-- Biểu tượng truyền thống: Mái đao cong đình/chùa Nam Bộ -->
+  <g transform="translate(118, 14)">
+    <path d="M22 6V9.5" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" />
+    <path d="M4 17C9.5 17.5 15 15 22 9.5C29 15 34.5 17.5 40 17" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M4 17C3.5 13.5 6.5 12.5 9 13.2" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M40 17C40.5 13.5 37.5 12.5 35 13.2" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M6.5 24.5C12 24 16.5 21 22 17.5C27.5 21 32 24 37.5 24.5" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M9.5 30C14.5 29.5 18 27.5 22 25C26 27.5 29.5 29.5 34.5 30" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="15" y1="29.5" x2="15" y2="35" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="29" y1="29.5" x2="29" y2="35" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="11" y1="35.5" x2="33" y2="35.5" stroke="#C9A15B" stroke-width="2.2" stroke-linecap="round" />
+  </g>
+
+  <!-- Typography: SÀI GÒN (Serif tracking rộng) + Heritage (Serif italic lớn) -->
+  <text x="140" y="86" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-weight="500" letter-spacing="3" fill="#C9A15B">
+    SÀI GÒN
+  </text>
+  
+  <text x="140" y="118" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="32" font-style="italic" font-weight="400" letter-spacing="1.5" fill="#F5EFE6">
+    Heritage
+  </text>
+
+  <!-- Dòng phụ: Be Vietnam Pro 10.5px, tracking 0.14em, opacity 0.7 -->
+  <text x="140" y="148" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-size="10.5" font-weight="500" letter-spacing="1.6" fill="#F5EFE6" fill-opacity="0.7">
+    BẢN ĐỒ DI SẢN VĂN HÓA VẬT THỂ TP.HCM
+  </text>
+</svg>

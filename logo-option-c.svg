@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" fill="none">
+  <!-- PHƯƠNG ÁN C: CỬA SỔ LÁ SÁCH + MÁI NGÓI KIẾN TRÚC NAM BỘ -->
+  <!-- Mái ngói dốc che hiên -->
+  <path d="M3.5 9.5L18 4L32.5 9.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="2" y1="11" x2="34" y2="11" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Khung bao cửa sổ hình học -->
+  <rect x="7" y="13.5" width="22" height="18" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="18" y1="13.5" x2="18" y2="31.5" stroke="#C9A15B" stroke-width="2" />
+
+  <!-- Các lá sách nghiêng thông gió cánh trái -->
+  <line x1="10" y1="17.5" x2="15" y2="17.5" stroke="#C9A15B" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="10" y1="21.5" x2="15" y2="21.5" stroke="#C9A15B" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="10" y1="25.5" x2="15" y2="25.5" stroke="#C9A15B" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Các lá sách nghiêng thông gió cánh phải -->
+  <line x1="21" y1="17.5" x2="26" y2="17.5" stroke="#C9A15B" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="21" y1="21.5" x2="26" y2="21.5" stroke="#C9A15B" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="21" y1="25.5" x2="26" y2="25.5" stroke="#C9A15B" stroke-width="1.8" stroke-linecap="round" />
+</svg>

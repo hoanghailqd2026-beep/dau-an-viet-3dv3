@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" fill="none">
+  <!-- PHƯƠNG ÁN B: HOA VĂN GẠCH BÔNG SÀI GÒN XƯA -->
+  <!-- Hình thoi mảnh và hoa 4 cánh đối xứng (hoa thị), vàng đồng #C9A15B -->
+  <!-- Khung hình thoi mảnh -->
+  <path d="M18 3.5L32.5 18L18 32.5L3.5 18Z" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Cánh hoa trên & dưới -->
+  <path d="M18 18C14 12.5 14 7.5 18 5.5C22 7.5 22 12.5 18 18Z" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M18 18C14 23.5 14 28.5 18 30.5C22 28.5 22 23.5 18 18Z" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Cánh hoa trái & phải -->
+  <path d="M18 18C12.5 14 7.5 14 5.5 18C7.5 22 12.5 22 18 18Z" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M18 18C23.5 14 28.5 14 30.5 18C28.5 22 23.5 22 18 18Z" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Tâm nhụy hoa thị -->
+  <circle cx="18" cy="18" r="1.8" fill="#C9A15B" />
+</svg>
