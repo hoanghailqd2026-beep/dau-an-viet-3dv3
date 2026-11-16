@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180" fill="none">
+  <!-- Saigon Heritage Touch Icon 180x180: Nền tối sang trọng, biểu tượng Mái đao cong Việt Nam -->
+  <rect width="180" height="180" rx="36" fill="#0A0A0C" />
+  
+  <g transform="translate(18, 18) scale(4)">
+    <!-- Đỉnh chóp nóc -->
+    <path d="M18 4.5V7.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+
+    <!-- Mái đao cong vút truyền thống -->
+    <path d="M3 13.5C7.5 14 12 12 18 7.5C24 12 28.5 14 33 13.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Mũi đao uốn cong hai đầu -->
+    <path d="M3 13.5C2.5 10.8 5 9.8 7 10.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M33 13.5C33.5 10.8 31 9.8 29 10.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Diềm mái tầng ngói âm dương -->
+    <path d="M5 19.5C9.5 19 13.5 16.8 18 13.8C22.5 16.8 26.5 19 31 19.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Xà ngang đỡ mái -->
+    <path d="M7.5 24C11.5 23.5 14.5 22 18 20C21.5 22 24.5 23.5 28.5 24" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+
+    <!-- Hệ cột đình đôi -->
+    <line x1="12" y1="23.5" x2="12" y2="28" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+    <line x1="24" y1="23.5" x2="24" y2="28" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+
+    <!-- Bậc thềm móng nền di sản -->
+    <line x1="8.5" y1="28.5" x2="27.5" y2="28.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+  </g>
+</svg>

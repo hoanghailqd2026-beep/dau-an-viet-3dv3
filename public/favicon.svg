@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <!-- Saigon Heritage Favicon: Mái đao cong đình chùa truyền thống Việt Nam -->
+  <!-- Đỉnh chóp nóc -->
+  <path d="M16 3V6" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Mái đao cong vút truyền thống -->
+  <path d="M2 12C6 12.5 10.5 10.5 16 6.5C21.5 10.5 26 12.5 30 12" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Hai đầu mũi đao uốn cong lên -->
+  <path d="M2 12C1.5 9.5 3.5 8.5 5.5 9" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M30 12C30.5 9.5 28.5 8.5 26.5 9" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Tầng ngói hạ âm dương -->
+  <path d="M4 17.5C8 17 11.5 15 16 12.5C20.5 15 24 17 28 17.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Xà ngang và cột đình -->
+  <path d="M6.5 22C10 21.5 12.5 20.5 16 18.5C19.5 20.5 22 21.5 25.5 22" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+  <line x1="10.5" y1="21.5" x2="10.5" y2="26" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+  <line x1="21.5" y1="21.5" x2="21.5" y2="26" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Bậc thềm nền móng -->
+  <line x1="7.5" y1="26.5" x2="24.5" y2="26.5" stroke="#C9A15B" stroke-width="2" stroke-linecap="round" />
+</svg>
